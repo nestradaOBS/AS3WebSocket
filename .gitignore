@@ -3,3 +3,8 @@ bin-release
 bin-debug
 AS3WebSocket/bin
 testApp/*.air
+/.gradle
+/build
+/.idea
+/out
+/*.iml
